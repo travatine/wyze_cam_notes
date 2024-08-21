@@ -3,7 +3,7 @@
 After installing wz_wini, turn on IP tables and create following file to add some basic firewall rules
 
 
-
+```
 nano /media/mmc/wz_mini/etc/rc.local.d/firewall.sh
 
 #!/bin/sh
